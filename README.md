@@ -12,3 +12,4 @@ or equivalent.
 
 Download the [latest release](https://github.com/avexxx3/Jadephus/releases/latest), and run ``./Jadephus [n] [k]`` from the unzipped directory.
 Where [n] is the number of soldiers and [k]-1 is the gap left inbetween killings.
+You can increase or decrease the speed of the simulation by pressing '1' or '2' respectively.
